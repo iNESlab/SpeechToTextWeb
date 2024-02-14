@@ -1,8 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Speech_To_Text_Web_Project&fontSize=50&animation=fadeIn&fontAlignY=35)
 
-> 음성을 텍스트로 변환해주는 데모 웹 시현 페이지
+> **음성을 텍스트로 변환해주는 데모 웹 시현 페이지**
 
-> 커밋 컨벤션, 브랜치, pull request 꼭 지키기 !
+> **커밋 컨벤션, 브랜치, pull request 꼭 지키기 !**
+
+### 역할
+<table>
+	<thead>
+   <th><strong> AI-model </strong></th>
+   <th><strong> Full-stack </strong></th>
+	</thead>
+	<tbody>
+  	<tr>
+    	<td><p>이미지</p></td>
+    	<td><p>이미지</p></td>
+  	</tr>
+  	<tr>
+    	<td><p>이미지</p></td>
+    	<td><p>이미지</p></td>
+  	</tr>
+</tbody>
+</table>
+
 
 ### 커밋 컨벤션
 **1. 기능  : Feat, Fix, Design, !BREAKING CHANGE**  
