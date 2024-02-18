@@ -4,6 +4,9 @@
 
 > **커밋 컨벤션, 브랜치, pull request 꼭 지키기 !**
 
+> [[git][fork][bash] git bash로 협업하기 - Forking Workflow](https://co-deok.tistory.com/16)
+
+
 ### 역할
 <table>
 	<thead>
@@ -12,8 +15,8 @@
 	</thead>
 	<tbody>
   	<tr>
-    	<td><p>이미지</p></td>
-    	<td><p>이미지</p></td>
+    	<td><p>고중범(@kojungbeom)</p></td>
+    	<td><p>김민정(@Mingguriguri)</p></td>
   	</tr>
   	<tr>
     	<td><p>이미지</p></td>
@@ -22,15 +25,13 @@
 </tbody>
 </table>
 
-
 ### 커밋 컨벤션
 **1. 기능  : Feat, Fix, Design, !BREAKING CHANGE**  
 - `Feat`: 새로운 기능을 추가할 경우  
 - `Fix`: 버그를 고친 경우  
 - `Design`: CSS 등 사용자 UI 디자인 변경  
 - `!BREAKING CHANG`: 커다란 API 변경의 경우 (ex API의 arguments, return 값의 변경, DB 테이블 변경, 급하게 치명적인 버그를 고쳐야 하는 경우)  
-- 사용예시:  
-  ex)"Feat(navigation): ~~~~  " "Fix(database): ~~~~"  
+- ex)"Feat(navigation): ~~~~  " "Fix(database): ~~~~"  
 
 **2. 개선: Style, Refactor, Comment 태그**  
 - `Style`: 코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우 <오타 수정, 탭 사이즈 변경, 변수명 변경 등에 해당>   
@@ -47,7 +48,3 @@
 **4. 예시**  
 - Feat: "추가 get data api 함수"  
 -  "고침", "추가", "변경" 또는 "Fix", "Add", "Change" 사용  
-  
-# 대용량 트래픽 처리 공부
-- 시작: 2023. 12
-
