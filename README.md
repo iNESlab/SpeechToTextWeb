@@ -6,7 +6,6 @@
 
 > [[git][fork][bash] git bash로 협업하기 - Forking Workflow](https://co-deok.tistory.com/16)
 
-
 ### 역할
 <table>
 	<thead>
