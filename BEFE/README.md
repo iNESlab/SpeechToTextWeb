@@ -5,6 +5,7 @@ this page is MJ's page
 npx sass --watch BEFE/static/css/style.scss BEFE/static/css/style.css
 ```
 # Log
+> **@0218 프로그래스: FE 기본 화면 설정**
 
 @0218
 > FE 기본 화면 설정

@@ -5,6 +5,7 @@
 > **커밋 컨벤션, 브랜치, pull request 꼭 지키기 !**
 
 > [[git][fork][bash] git bash로 협업하기 - Forking Workflow](https://co-deok.tistory.com/16)
+
 ### 역할
 <table>
 	<thead>
@@ -22,9 +23,6 @@
   	</tr>
 </tbody>
 </table>
-
-## 
-
 
 ### 커밋 컨벤션
 **1. 기능  : Feat, Fix, Design, !BREAKING CHANGE**  
@@ -49,4 +47,3 @@
 **4. 예시**  
 - Feat: "추가 get data api 함수"  
 -  "고침", "추가", "변경" 또는 "Fix", "Add", "Change" 사용  
-
